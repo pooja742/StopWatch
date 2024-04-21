@@ -1,4 +1,4 @@
-Stopwatch Web Application
+#Stopwatch Web Application
 This Stopwatch Web Application is a simple yet interactive tool built using HTML, CSS, and JavaScript. It provides users with the ability to accurately measure and record time intervals, facilitating various time-tracking tasks.
 
 Features
