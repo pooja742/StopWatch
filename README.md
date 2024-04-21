@@ -2,7 +2,7 @@
 This Stopwatch Web Application is a simple yet interactive tool built using HTML, CSS, and JavaScript. It provides users with the ability to accurately measure and record time intervals, facilitating various time-tracking tasks.
 
 ## Features
-Start, Pause, and Reset: Easily control the stopwatch with intuitive buttons for starting, pausing, and resetting the timer.
+Start, Stop, and Reset: Easily control the stopwatch with intuitive buttons for starting, stopping, and resetting the timer.
 
 Lap Time Tracking: Capture lap times to record multiple time intervals during stopwatch operation.
 
