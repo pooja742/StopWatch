@@ -1,5 +1,6 @@
 # Stopwatch Web Application
 This Stopwatch Web Application is a simple yet interactive tool built using HTML, CSS, and JavaScript. It provides users with the ability to accurately measure and record time intervals, facilitating various time-tracking tasks.
+### Check out the StopWatch [here](https://pooja742.github.io/StopWatch/).
 
 ## Features
 Start, Stop, and Reset: Easily control the stopwatch with intuitive buttons for starting, stopping, and resetting the timer.
