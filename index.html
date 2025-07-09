@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Stop Watch</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <div class="box">
         <h2 class="heading">Stopwatch</h2>
         <h1 id="stopwatch">00 : 00 : 00</h1>
-        <button onclick="start()" style="background-color:cornsilk;">start</button>
-        <button onclick="stop()" style="background-color:cornsilk;">stop</button>
-        <button onclick="reset()" style="background-color:cornsilk;">reset</button>
-        <button onclick="recordLap()" style="background-color:cornsilk;">lap</button>
+        <div class="button-group">
+            <button onclick="start()">start</button>
+            <button onclick="stop()">stop</button>
+            <button onclick="reset()">reset</button>
+            <button onclick="recordLap()">lap</button>
+        </div>
         <ul id="laps"></ul> 
     </div>
     <script src="index.js"></script>
